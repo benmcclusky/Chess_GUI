@@ -17,7 +17,7 @@ Annotated with the help of ChatGPT
   **Chessboard:** Stores all the game mechanics (drawing the chessboard, 
   calculating valid moves, determining game outcome, toggling player turns, reseting the game) 
 
-  **Piece: **Represents the individual chess pieces storing characteristics such as board notation, image file, color and tracking if they have already moved. 
+  **Piece:** Represents the individual chess pieces storing characteristics such as board notation, image file, color and tracking if they have already moved. 
 
 
 **config.py:** Contains all global variables, loads png files for chessboard pieces
