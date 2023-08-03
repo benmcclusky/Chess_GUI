@@ -8,7 +8,7 @@ from config import *
 from stockfish import Stockfish
 
 stockfish = Stockfish(
-    path=r"stockfish\stockfish-windows-x86-64-avx2.exe",
+    path=r"stockfish\stockfish-windows-x86-64-avx2.exe", # Replace with path to locally stored stockfish directory
     depth=12,
     parameters={"Threads": 2, "Minimum Thinking Time": 30},
 )
