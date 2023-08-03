@@ -3,7 +3,7 @@ Simple chess GUI built with Pygame. Intended as a personal project to increase m
 
 Created chess mechanics from first principles including complex movements / rulesets such as En Passant, Castling.
 
-Evaluations performed with [Stockfish](https://www.google.com "Google's Homepage")
+Evaluations performed with [Stockfish](https://github.com/official-stockfish/Stockfish "Stockfish Repository")
 
 Annotated with the help of ChatGPT 
 
