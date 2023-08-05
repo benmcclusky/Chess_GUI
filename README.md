@@ -1,5 +1,5 @@
 # Chess_GUI
-Simple chess GUI built with Pygame. Intended as a personal project to increase my Python skills, particularly focusing on effectively using object oriented programming. 
+Simple chess engine and GUI built with Pygame. Intended as a personal project to increase my Python skills, particularly focusing on effectively using object oriented programming. 
 
 Created chess mechanics from first principles including complex movements / rulesets such as En Passant, Castling.
 
